@@ -2,7 +2,7 @@
 
     Detecting Handling missing data in dataset our department provided of current U.S football players. 
 
-    -In the software developing, I can divide my work to two parts. 
+    In the software developing, I can divide my work to two parts. 
     First, I build and apply the MLP called multiple layer regression, also same as NN, to train and predict the RPE 
     (training     intensity and variety) for current U.S football player based on their muscle soreness, fatigue, sleep, 
     duration, acute         load average, chronic load average, TSB and so on.
